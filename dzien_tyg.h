@@ -5,7 +5,7 @@ using namespace std;
 
     main ()
 	{
-		int		i;
+		int i;
 		cout << "Podaj nr dnia tygodnia: " << endl; 
 		cin >> i;
 		switch(i)
