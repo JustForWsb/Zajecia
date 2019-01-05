@@ -3,9 +3,9 @@
 using namespace std;
 
 
-    main ()
+int main ()
 	{
-		int i;
+		int	i;
 		cout << "Podaj nr dnia tygodnia: " << endl; 
 		cin >> i;
 		switch(i)
