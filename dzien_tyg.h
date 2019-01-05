@@ -11,26 +11,16 @@ int main ()
 		switch(i)
 		{
 		case 1:
-			cout << "Roboczy" << endl; 
-			break;
 		case 2:
-			cout << "Roboczy" << endl; 
-			break;
 		case 3:
-			cout << "Roboczy" << endl; 
-			break;
 		case 4:
-			cout << "Roboczy" << endl; 
-			break;
 		case 5:
 			cout << "Roboczy" << endl; 
 			break;
 		case 6:
-			cout << "Wekeend" << endl; 
-			break;
 		case 7:
 			cout << "Wekeend" << endl; 
-			break;	
+			break;
 		default:
 			cout << "Nie wiem nic o takim dniu." << endl; 
 			break;
